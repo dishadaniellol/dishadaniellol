@@ -33,10 +33,6 @@ Hi there! 👋 I'm Disha, an **Electrical & Electronics Engineering** student wi
 **Flutter** | **IoT Integration** | **Healthcare**
 A comprehensive mobile app for prenatal care and emergency detection, integrating **IoT** for real-time monitoring and actionable insights. This project blends my passion for **app development** with **healthcare innovations**! 🤰
 
-### 🏗️ **briXchange** (Real Estate Tokenization Platform)
-**Flutter** | **Web3 Integration**
-An innovative platform for real estate transactions using **tokenization**, bringing secure and transparent solutions to the real estate sector. 🏢💼
-
 ---
 
 ## 🏆 Achievements
