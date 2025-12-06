@@ -1,9 +1,10 @@
 <h1 align="center">Hi 👋, I'm Disha Daniel</h1>
 <h3 align="center">Engineering Intelligence for the Physical World 🌍</h3>
 
----
-
 <p align="center">
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="400" alt="Tech Wizard">
+  <br>
+  <br>
   <img src="https://readme-typing-svg.demolab.com/?lines=Resilient+Computing;Intelligent+Sensing;Verifiable+Security;Resource-Constrained+AI&font=Montserrat&center=true&width=530&height=50&color=003F87&vCenter=true&pause=1000&size=24&duration=1000" alt="Typing SVG" />
 </p>
 
